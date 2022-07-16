@@ -10,7 +10,6 @@ const CONFIG = {
     desc: '',
     btnYes: 'Chạm vào tui đi ',
     btnNo: 'Không nha :3',
-    
     mess: 'hehe mèo đùa xíu hoi kkk ',
     messDesc: 'Và giờ mèo xin phép tạm biệt Đon, mèo đi nghỉ hưu đây. Mãi yêuuuu',
     btnAccept: 'Good luck!!!',
