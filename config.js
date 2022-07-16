@@ -10,10 +10,8 @@ const CONFIG = {
     desc: '',
     btnYes: 'Chạm vào tui đi ',
     btnNo: 'Không nha :3',
-    question: 'Mèo đi rồi nhưng sẽ có 1 người luôn ở lại đây, Đon có muốn người đó tiếp tục bên cạnh Đon không? <3',
-    btnReply: 'Gửi cho bạn <3', 
-     reply: 'Có, Đoan muốn.',
-    mess: 'oke cảm ơn Đon đã cho mèo biết, mèo sẽ đi nói lại. ',
+    
+    mess: 'hehe mèo đùa xíu hoi kkk ',
     messDesc: 'Và giờ mèo xin phép tạm biệt Đon, mèo đi nghỉ hưu đây. Mãi yêuuuu',
     btnAccept: 'Good luck!!!',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
