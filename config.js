@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'Và giờ mèo xin phép tạm biệt Đon, mèo đi nghỉ hưu đây. Mãi yêuuuu',
     btnAccept: 'Good luck!!!',
     messLink: 'https://www.facebook.com/messages/t/100015228845354' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+}
